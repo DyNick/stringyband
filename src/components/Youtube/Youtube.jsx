@@ -5,7 +5,7 @@ import { YoutubeData } from "./YoutubeData";
 import { Context } from "../../context";
 
 const Youtube = () => {
-  const [itemsShown, setItemsShown] = useState(6);
+  const [itemsShown, setItemsShown] = useState(3);
   const url =
     "https://youtube-v31.p.rapidapi.com/search?channelId=UCmAfIm28uJsFDKquZTfZvkw&part=snippet%2Cid&order=date&maxResults=60";
   const youtubeItems = YoutubeData(url);
