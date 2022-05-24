@@ -31,6 +31,9 @@ const Navigation = () => {
                 duration={500}
                 to={item.title}
                 key={index}
+                onClick={() => {
+                  openHandler(!open);
+                }}
               >
                 {item.text}
               </Link>

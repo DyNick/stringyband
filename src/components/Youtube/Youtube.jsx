@@ -73,7 +73,7 @@ const Youtube = () => {
           );
         })}
       </ul>
-      <button className="btn btn--center" onClick={() => showMore()}>
+      <button className="btn btn--center btn--light" onClick={() => showMore()}>
         {SHOWMORE}
       </button>
     </>
