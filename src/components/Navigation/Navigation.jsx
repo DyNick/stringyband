@@ -6,8 +6,11 @@ const Navigation = () => {
   const [open, setOpen] = useState(false);
 
   function openHandler(value) {
-    setOpen(value);
-    console.log(value);
+    if(window.innerWidth <= 992) {
+      setOpen(value);
+    }
+    
+
   }
   const {
     localisationStore: [state],
