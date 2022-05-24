@@ -1,0 +1,76 @@
+{
+    "EN": {
+        "active": false,
+        "translation": {
+            "_NAVIGATION": [
+                {
+                    "text": "About",
+                    "title": "about"
+                },
+                {
+                    "text": "News",
+                    "title": "news"
+                },
+                {
+                    "text": "Music",
+                    "title": "music"
+                },
+                {
+                    "text": "Video",
+                    "title": "video"
+                },
+                {
+                    "text": "Contact us",
+                    "title": "contact"
+                }
+            ],
+            "_SHOWMORE": "Show more",
+            "_SHOWLESS": "Show less",
+            "_ABOUT": {
+                "firstPart": "Hello! Did you know that about 100 punk bands disappear in the wild every year? As a rule, this is because some of the former punk rockers wants to try themselves in a more «sophisticated» style like easycore, post hardcore etc., and the others dump due to the lack of prospects, another – due to a social ballast like a family or a fourth cat. However, this story is not about them. This story is about the faithful adepts of the genre, who have been surfing the expanse of punk music for more than 10 years - the group STRINGY!",
+                "secondPart": "STRIVE FORWARD, DO NOT COMPLAIN STRINGY! is a punk rock band from Kyiv, Ukraine, formed in 2007. During its existence, the group has released about 10 mini-albums and performed more than 300 shows. STRINGY! actively tours between cities of Ukraine and neighboring countries.We started rehearsing in the spring of 2007. Being the students deeply in love with rock, we put every hryvna into our music. After a small number of performances with different degree of failure and success, we decided to perpetuate our songs and in 2009 we released our first album. We continued performing and composing songs. We staged in the fancy clubs and very tough places, played for either five or 2,000 people. All our savings are invested in instruments, records and trips for concerts to other cities. We are devoted to our cause and are not going to give up. STRINGY! is a punk rock band from Kyiv, Ukraine, formed in 2007. During its existence, the group has released about 10 mini-albums and performed more than 300 shows. STRINGY! actively tours between cities of Ukraine and neighboring countries. We saw how the super-cool teams gathered and then crumbled; yesterday’s rockers became serious businessmen; furious puck-girls turned into exemplary mothers; new stars were born and died. It seems like it’s been ages, but we do remember where we started and where we go. For someone STRINGY! is just another group out of a million others. But someday, our songs will definitely save someone’s life. "
+            },
+            "_NEWS": "News",
+            "_MUSIC": "Music",
+            "_VIDEO": "Video",
+            "_CONTACT": "Contact us"
+        }
+    },
+    "UA": {
+        "active": true,
+        "translation": {
+            "_NAVIGATION": [
+                {
+                    "text": "Про гурт",
+                    "title": "about"
+                },
+                {
+                    "text": "Новини",
+                    "title": "news"
+                },
+                {
+                    "text": "Музика",
+                    "title": "music"
+                },
+                {
+                    "text": "Відео",
+                    "title": "video"
+                },
+                {
+                    "text": "Контакти",
+                    "title": "contact"
+                }
+            ],
+            "_SHOWMORE": "Показати більше",
+            "_SHOWLESS": "Показати менше",
+            "_ABOUT": {
+                "firstPart": "ПРИВіТ! Чи знаєте ви, що щорічно в дикій природі розпадається близько 100 панк-колективів? Як правило, це відбувається тому, що частина колишніх панкрокерів хоче спробувати себе в більш «витонченому» стилі на кшталт ізі-кора, пост-хк і т.д., а інша частина просто звалює через неперспективність або соціального баласту у вигляді сім’ї або четвертої кішки . Але ця історія не про них, ця історія про вірних адептів жанру, які незважаючи ні на що вже більше 10 років борознять простори панк-музики - гурту STRINGY",
+                "secondPart": "ПРАГНИ ВПЕРЕД, НЕ ЖАЛІЙСЯ STRINGY! - Перші репетиціїї гурту відбулись навесні 2007 року. Ми були звичайними студентами, закоханими в рок, вкладали наші нечисленні гроші в заняття музикою. Після невеликої кількості виступів різного ступеня провальності і успішності ми вирішили увічнити наші пісні в запису, і вже в 2009 випустили наш перший альбом. Ми продовжували грати і складати пісні, виступаючи як в крутих клубах, так і в зовсім сумнівних місцях, граючи як для 5, так і для 2000 осіб. При тотальному ігноруванні білямузичних ЗМІ ми продовжували ростити наше дітище, росли професійно, експериментуючи зі звучанням і відточуючи пісні до блиску. Всі наші заощадження вкладалися в інструменти, записи і поїздки з концертами по інших містах. Ми віддані нашій справі і як і раніше не збираємося зупинятися.Ми бачили, як збиралися і розсипалися суперкруті команди; вчорашні рокери ставали серйозними бізнесменами, несамовита дівчинка з палаючими очима котра нещодавно трясла немитою головою трансформувалась в показову маму; музична індустрія народжувала і випльовувала нових зірок. Здається пройшла ціла вічність, але ми пам’ятаємо, з чого починали і куди йдемо. Для когось STRINGY! - усього лише черговий гурт з мільйона існуючих, але коли-небудь наші пісні стовідсотково врятують комусь життя"
+            },
+            "_NEWS": "Новини",
+            "_MUSIC": "Музика",
+            "_VIDEO": "Відео",
+            "_CONTACT": "Контакти"
+        }
+    }
+}

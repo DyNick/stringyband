@@ -1,0 +1,12 @@
+$small: 420px;
+$medium: 992px;
+
+.carouselImage {
+    object-fit: cover;
+    @media screen and (max-width: $small) {
+        height: auto;
+      }
+      @media screen and (min-width: $medium) {
+        height: 690px;
+      }
+}

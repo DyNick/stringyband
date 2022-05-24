@@ -1,0 +1,39 @@
+@import "../../mixin.scss";
+.carouselItem{
+    position: relative;
+
+    a {
+        box-shadow: 0 2px 5px 0 #000;
+        outline: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        background-position: 50%;
+        background-color: #000;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        height: 300px;
+        border-radius: 5px;
+        transition: all .3s;
+        overflow: hidden;
+      
+    }
+    img{
+        
+    }
+}
+.carouselWrapper {
+    margin: 0 0 40px;
+    background: #000;
+    padding: 40px;
+    box-sizing: border-box;
+    @include media("max", "md") {
+        padding: 25px;
+    }
+    h2{
+        color: #fff;
+        margin-bottom: 20px;
+    }
+}
